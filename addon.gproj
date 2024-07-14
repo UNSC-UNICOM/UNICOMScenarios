@@ -1,0 +1,22 @@
+GameProject {
+ ID "UNICOMScenarios"
+ GUID "61D33468351A77B7"
+ TITLE "UNICOM Scenarios"
+ Dependencies {
+  "5EC6E5F84C592F07" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
