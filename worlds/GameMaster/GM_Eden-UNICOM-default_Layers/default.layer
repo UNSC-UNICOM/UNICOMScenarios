@@ -1,0 +1,110 @@
+$grp GenericEntity {
+ GallowsHill {
+  coords 5220.015 39.637 10490.765
+  {
+   SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+    coords 1.958 0.021 1.56
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "Gallows Hill"
+    }
+   }
+   GenericEntity : "{ACA08DF2F35C31EF}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/UNSC/E_ArsenalBox_UNSC.et" {
+    coords -4.802 0.193 -14.063
+    angleY 140.26
+   }
+   SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
+    coords 2.912 -0.15 2.558
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "Gallows Hill"
+    }
+   }
+   GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+    components {
+     SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+      m_eArsenalSaveType NO_RESTRICTIONS
+     }
+    }
+    coords -12.141 0.213 -15.387
+    angleY 40.624
+   }
+  }
+ }
+ AirField {
+  coords 4929.996 28.594 11817.313
+  {
+   SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+    coords 7.068 0 -0.094
+    angleY 90
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "Airfield"
+    }
+   }
+   GenericEntity : "{ACA08DF2F35C31EF}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/UNSC/E_ArsenalBox_UNSC.et" {
+    coords 10.059 0 -6.624
+    angleY -178.654
+   }
+   SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
+    coords 5.882 0 -0.017
+    angleY 90
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "Airfield"
+    }
+   }
+   GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+    components {
+     SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+      m_eArsenalSaveType NO_RESTRICTIONS
+     }
+    }
+    coords 15.229 0.036 -6.417
+   }
+  }
+ }
+ CBC {
+  coords 7431.821 7.875 6695.531
+  {
+   SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+    coords -7.507 0.026 -5.197
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "CBC"
+    }
+   }
+   SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
+    coords -7 0.019 -5.188
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "CBC"
+    }
+   }
+  }
+ }
+ BCT {
+  coords 7703.191 13.537 8144.968
+  {
+   SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+    coords 16.406 0.488 1.489
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "BCT"
+    }
+   }
+   GenericEntity : "{ACA08DF2F35C31EF}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/UNSC/E_ArsenalBox_UNSC.et" {
+    coords 18.62 0.182 -6.481
+    angleY -139.596
+   }
+   SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
+    coords 17.719 0.167 0.977
+    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "BCT"
+    }
+   }
+   GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+    components {
+     SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+      m_eArsenalSaveType NO_RESTRICTIONS
+     }
+    }
+    coords 22.905 0.123 9.563
+    angleY 30.028
+   }
+  }
+ }
+}
