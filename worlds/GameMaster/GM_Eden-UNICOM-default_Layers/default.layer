@@ -63,17 +63,18 @@ $grp GenericEntity {
  CBC {
   coords 7431.821 7.875 6695.531
   {
-   SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
-    coords -7.507 0.026 -5.197
-    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
-     Name "CBC"
-    }
+   GenericEntity : "{ACA08DF2F35C31EF}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/UNSC/E_ArsenalBox_UNSC.et" {
+    coords -53.388 2.158 21.485
+    angleY 34.391
    }
-   SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
-    coords -7 0.019 -5.188
-    m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
-     Name "CBC"
+   GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+    components {
+     SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+      m_eArsenalSaveType NO_RESTRICTIONS
+     }
     }
+    coords -49.603 1.812 18.872
+    angleY 34.379
    }
   }
  }
