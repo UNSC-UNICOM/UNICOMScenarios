@@ -121,18 +121,22 @@ $grp GenericEntity {
        {
         coords 4.08 0.345 5.974
         angleY -139.619
+        Flags 3
        }
        {
         coords -2.007 0.345 11.979
         angleY 152.064
+        Flags 3
        }
        {
         coords 0.321 0.345 4.812
         angleY -44.154
+        Flags 3
        }
        {
         coords -7.603 0.344 8.956
         angleY 27.126
+        Flags 3
        }
       }
      }
@@ -144,38 +148,47 @@ $grp GenericEntity {
        {
         coords -20.382 -0.087 13.533
         angleY 127.803
+        Flags 3
        }
        {
         coords -21.585 -0.065 12.044
         angleY 127.803
+        Flags 3
        }
        {
         coords -22.928 -0.022 10.423
         angleY 127.803
+        Flags 3
        }
        {
         coords -57.056 -0.328 9.415
         angleY 127.803
+        Flags 3
        }
        {
         coords -58.261 -0.306 7.923
         angleY 127.803
+        Flags 3
        }
        {
         coords -59.604 -0.263 6.302
         angleY 127.803
+        Flags 3
        }
        {
-        coords -93.82 0.63 41.916
+        coords -89.117 0.63 47.161
         angleY 129.859
+        Flags 3
        }
        {
-        coords -95.078 0.652 40.468
+        coords -90.375 0.652 45.713
         angleY 129.859
+        Flags 3
        }
        {
-        coords -96.477 0.695 38.894
+        coords -91.774 0.695 44.139
         angleY 129.859
+        Flags 3
        }
       }
      }
