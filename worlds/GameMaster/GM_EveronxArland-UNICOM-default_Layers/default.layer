@@ -242,6 +242,7 @@ $grp GenericEntity {
    SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
     coords 2.917 -0.691 0.049
     m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+     Name "MBA"
      Description "MBA"
     }
    }
