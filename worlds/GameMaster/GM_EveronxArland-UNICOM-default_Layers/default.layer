@@ -124,8 +124,10 @@ $grp GenericEntity {
         Flags 3
        }
        {
-        coords -2.007 0.345 11.979
-        angleY 152.064
+        coords 0.054 0.344 10.715
+        angleX 0.047
+        angleY -140.124
+        angleZ -0
         Flags 3
        }
        {
@@ -144,6 +146,9 @@ $grp GenericEntity {
     Gun_Range {
      coords -15.837 -0.09 -15.257
      {
+      GenericEntity Blast_Shield {
+       coords -18.696 0.132 -16.853
+      }
       $grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
        {
         coords -30.973 -0.087 -0.12
@@ -247,33 +252,5 @@ $grp GenericEntity {
     }
    }
   }
- }
-}
-$grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
- {
-  coords 7667.56 13.008 8114.467
-  angleY -47.631
- }
- {
-  coords 7667.449 13.332 8114.255
-  angleY -47.631
- }
-}
-$grp GenericEntity : "{87588E4A1561C4D1}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_round_high_plastic.et" {
- {
-  coords 7666.198 13.088 8112.062
-  angleY -99.408
- }
- {
-  coords 7669.922 13.067 8115.855
-  angleY 4.306
- }
- {
-  coords 7666.087 13.412 8111.85
-  angleY -99.408
- }
- {
-  coords 7669.811 13.391 8115.644
-  angleY 4.306
  }
 }
