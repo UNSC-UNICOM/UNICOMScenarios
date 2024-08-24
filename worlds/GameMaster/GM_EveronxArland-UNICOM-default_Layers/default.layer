@@ -146,47 +146,47 @@ $grp GenericEntity {
      {
       $grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
        {
-        coords -20.382 -0.087 13.533
+        coords -30.973 -0.087 -0.12
         angleY 127.803
         Flags 3
        }
        {
-        coords -21.585 -0.065 12.044
+        coords -32.177 -0.065 -1.609
         angleY 127.803
         Flags 3
        }
        {
-        coords -22.928 -0.022 10.423
+        coords -33.519 -0.022 -3.229
         angleY 127.803
         Flags 3
        }
        {
-        coords -57.056 -0.328 9.415
+        coords -48.427 -0.328 20.538
         angleY 127.803
         Flags 3
        }
        {
-        coords -58.261 -0.306 7.923
+        coords -49.633 -0.306 19.046
         angleY 127.803
         Flags 3
        }
        {
-        coords -59.604 -0.263 6.302
+        coords -50.975 -0.263 17.425
         angleY 127.803
         Flags 3
        }
        {
-        coords -89.117 0.63 47.161
+        coords -80.564 0.291 57.405
         angleY 129.859
         Flags 3
        }
        {
-        coords -90.375 0.652 45.713
+        coords -81.822 0.313 55.957
         angleY 129.859
         Flags 3
        }
        {
-        coords -91.774 0.695 44.139
+        coords -83.221 0.356 54.383
         angleY 129.859
         Flags 3
        }
@@ -247,5 +247,33 @@ $grp GenericEntity {
     }
    }
   }
+ }
+}
+$grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
+ {
+  coords 7667.56 13.008 8114.467
+  angleY -47.631
+ }
+ {
+  coords 7667.449 13.332 8114.255
+  angleY -47.631
+ }
+}
+$grp GenericEntity : "{87588E4A1561C4D1}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_round_high_plastic.et" {
+ {
+  coords 7666.198 13.088 8112.062
+  angleY -99.408
+ }
+ {
+  coords 7669.922 13.067 8115.855
+  angleY 4.306
+ }
+ {
+  coords 7666.087 13.412 8111.85
+  angleY -99.408
+ }
+ {
+  coords 7669.811 13.391 8115.644
+  angleY 4.306
  }
 }
