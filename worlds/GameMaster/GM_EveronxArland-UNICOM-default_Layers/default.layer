@@ -124,8 +124,8 @@ $grp GenericEntity {
         Flags 3
        }
        {
-        coords -2.007 0.345 11.979
-        angleY 152.064
+        coords 0.11 0.344 10.605
+        angleY -138.096
         Flags 3
        }
        {
@@ -144,6 +144,39 @@ $grp GenericEntity {
     Gun_Range {
      coords -15.837 -0.09 -15.257
      {
+      GenericEntity Sandbag_Half_Wall {
+       coords -18.807 0.122 -16.783
+       {
+        $grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
+         {
+          coords -0.987 -0.561 1.539
+          angleY -47.631
+         }
+         {
+          coords -1.098 -0.237 1.327
+          angleY -47.631
+         }
+        }
+        $grp GenericEntity : "{87588E4A1561C4D1}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_round_high_plastic.et" {
+         {
+          coords -2.349 -0.481 -0.866
+          angleY -99.408
+         }
+         {
+          coords 1.375 -0.502 2.927
+          angleY 4.306
+         }
+         {
+          coords -2.46 -0.157 -1.078
+          angleY -99.408
+         }
+         {
+          coords 1.264 -0.178 2.716
+          angleY 4.306
+         }
+        }
+       }
+      }
       $grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
        {
         coords -30.973 -0.087 -0.12
@@ -239,41 +272,27 @@ $grp GenericEntity {
  MBA {
   coords 1384.483 36.313 2373.885
   {
+   GenericEntity : "{ACA08DF2F35C31EF}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/UNSC/E_ArsenalBox_UNSC.et" {
+    coords 5.404 -0.223 24.14
+    angleY 56.041
+    {
+     GenericEntity {
+      ID "5D8686A904DE54D7"
+      coords -0.881 0 -0.847
+     }
+    }
+   }
    SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
-    coords 2.917 -0.691 0.049
+    coords 2.917 -0.066 0.049
     m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
      Name "MBA"
      Description "MBA"
     }
    }
+   GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+    coords -0.966 -0.22 32.934
+    angleY -133.197
+   }
   }
- }
-}
-$grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
- {
-  coords 7667.56 13.008 8114.467
-  angleY -47.631
- }
- {
-  coords 7667.449 13.332 8114.255
-  angleY -47.631
- }
-}
-$grp GenericEntity : "{87588E4A1561C4D1}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_round_high_plastic.et" {
- {
-  coords 7666.198 13.088 8112.062
-  angleY -99.408
- }
- {
-  coords 7669.922 13.067 8115.855
-  angleY 4.306
- }
- {
-  coords 7666.087 13.412 8111.85
-  angleY -99.408
- }
- {
-  coords 7669.811 13.391 8115.644
-  angleY 4.306
  }
 }
