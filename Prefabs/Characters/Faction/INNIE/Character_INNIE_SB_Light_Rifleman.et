@@ -58,26 +58,54 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
     ItemsInitConfigurationItem "{5F0E02E065CC2DAD}" {
      TargetStorage "Prefabs/Characters/Armor/UNSC/Light Marine Core Innie.et"
      PrefabsToSpawn {
-      "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et" "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et"
+      "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
      }
     }
     ItemsInitConfigurationItem "{5F0E02E065CC2DD3}" {
      TargetStorage "Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
      TargetPurpose 1
      PrefabsToSpawn {
-      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et" "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et" "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
      }
     }
     ItemsInitConfigurationItem "{628F2DA3DC276F00}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5.et"
      PrefabsToSpawn {
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et" "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
      }
     }
     ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
      TargetStorage "Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
      PrefabsToSpawn {
-      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et" "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et" "{00E36F41CA310E2A}Prefabs/Items/Medicine/SalineBag_01/SalineBag_US_01.et" "{4516ED62FABDDA4F}Prefabs/Items/Equipment/Maps/Datapad_01.et" "{1BF9CC1CABB72E8D}Prefabs/Items/Equipment/Radios/INNIE Handheld Radio.et"
+      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et"
+      "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et"
+      "{00E36F41CA310E2A}Prefabs/Items/Medicine/SalineBag_01/SalineBag_US_01.et"
+      "{4516ED62FABDDA4F}Prefabs/Items/Equipment/Maps/Datapad_01.et"
+      "{1BF9CC1CABB72E8D}Prefabs/Items/Equipment/Radios/INNIE Handheld Radio.et"
      }
     }
    }
