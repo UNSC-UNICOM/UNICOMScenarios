@@ -60,17 +60,17 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
      PrefabsToSpawn {
       "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et"
       "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
-      "{629D12AD4A321CD5}Prefabs/Magazines/MA37 Magazine.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
      }
     }
     ItemsInitConfigurationItem "{5F0E02E065CC2DD3}" {
@@ -87,15 +87,15 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
     ItemsInitConfigurationItem "{628F2DA3DC276F00}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5.et"
      PrefabsToSpawn {
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
-      "{215C479A6AB0000E}Prefabs/Weapons/Core/Magazine_Ma37_32rnd.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
+      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
      }
     }
     ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
