@@ -295,4 +295,34 @@ $grp GenericEntity {
    }
   }
  }
+ MBL {
+  coords 7526.458 165.344 4354.171
+  {
+   $grp GenericEntity {
+    Barracks_1 {
+     coords -109.595 -2.975 -2.217
+     {
+      $grp GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+       {
+        coords -5.657 0 2.882
+        angleY -66.494
+       }
+       {
+        coords -4.026 0 6.339
+        angleY -66.494
+       }
+      }
+     }
+    }
+    MotorPool {
+     coords 41.75 1.5 -40.776
+     angleY 13.624
+    }
+   }
+  }
+ }
+}
+Vehicle M12_Cargo1 : "{EACD0B2C30541275}Prefabs/Vehicles/Wheeled/M12 FAV/M12 Cargo.et" {
+ coords 7579.864 166.844 4328.958
+ angleY -163.032
 }
