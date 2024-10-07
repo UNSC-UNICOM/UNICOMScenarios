@@ -13,7 +13,34 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{3523CB7D5961246B}Prefabs/Characters/HeadGear/Hat_PeakedCap_USSR_01/Hat_PeakedCap_USSR_01.et"
+     Prefab "{85C685183E6E0471}Prefabs/Characters/HeadGear/Marine/Light Marine helmet Innie.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{F1E29085C62F0D55}Prefabs/Characters/Uniforms/Jacket_KZS/Jacket_KZS.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{9B53FEE51FFC5E9F}Prefabs/Characters/Armor/UNSC/Light Marine Core Innie.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{5E17C1AE66A6FF00}Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
+    }
+    LoadoutSlotInfo Boots {
+     Prefab "{DAAFD15478BDE1C3}Prefabs/Characters/Footwear/CombatBoots_US_01.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{4818A1B1EC48DD7A}Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
+    }
+    LoadoutSlotInfo HandWear {
+     Prefab "{4F71E7468E78DDD2}Prefabs/Characters/Handwear/Gloves_Leather_01/Gloves_Leather_01.et"
+    }
+    LoadoutSlotInfo Eyes {
+     Prefab "{3F9602B5792A95B5}Prefabs/Characters/HeadGear/Marine/Marine Glasses.et"
+    }
+    LoadoutSlotInfo Extra {
+     Prefab "{50B7992406A0A0A2}Prefabs/Characters/Vests/Marine/Light Marine/Innie/Add Light L Pad Innie.et"
+    }
+    LoadoutSlotInfo Extra2 {
+     Prefab "{BD74D238FF598631}Prefabs/Characters/Vests/Marine/Light Marine/Innie/Add Light R Pad Innie.et"
     }
    }
   }
