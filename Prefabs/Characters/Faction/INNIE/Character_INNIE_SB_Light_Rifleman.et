@@ -1,6 +1,8 @@
 SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Character_INNIE_BaseLoadout.et" {
  ID "520EC961A090B1EE"
  components {
+  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "SB Light Rifleman"
