@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7CC86CD1FE1E7AA3}Prefabs/Groups/INNIEFOR/Group_INNIE_SB_LightFireTeam.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

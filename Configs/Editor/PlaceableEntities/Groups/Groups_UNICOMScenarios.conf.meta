@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{8F936D562FC63FCF}Configs/Editor/PlaceableEntities/Groups/Groups_UNICOMScenarios.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
