@@ -5,6 +5,9 @@ SCR_AIGroup : "{D829C405E0DF6485}Prefabs/Groups/INNIEFOR/Group_INNIE_Base.et" {
    m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
     Name "SB Light Fire Team"
     Description "SB Light Fire Team description TODO"
+    m_aAuthoredLabels + {
+     1001
+    }
    }
   }
  }

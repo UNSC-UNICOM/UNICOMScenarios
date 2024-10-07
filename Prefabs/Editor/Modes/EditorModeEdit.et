@@ -1,0 +1,13 @@
+SCR_EditorModeEntity : "{E56F54E533ACE527}Prefabs/Editor/Modes/EditorModeBase.et" {
+ ID "54F0A77282A3AA3B"
+ components {
+  SCR_PlacingEditorComponent "{5145484399BAA2E7}" {
+   m_Registries {
+    SCR_PlaceableEntitiesRegistry "{628ED633191D4B38}" : "{3B39581267185B48}Configs/Editor/PlaceableEntities/Characters/Characters_UNICOMScenariosINNIE.conf" {
+    }
+    SCR_PlaceableEntitiesRegistry "{628ED63317FF9B75}" : "{8F936D562FC63FCF}Configs/Editor/PlaceableEntities/Groups/Groups_UNICOMScenarios.conf" {
+    }
+   }
+  }
+ }
+}

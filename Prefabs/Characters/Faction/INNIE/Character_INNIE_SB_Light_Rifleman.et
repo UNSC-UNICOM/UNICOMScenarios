@@ -5,6 +5,9 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "SB Light Rifleman"
     Description "SB Light Rifleman description TODO"
+    m_aAuthoredLabels {
+     70 2 2515 1001
+    }
    }
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
