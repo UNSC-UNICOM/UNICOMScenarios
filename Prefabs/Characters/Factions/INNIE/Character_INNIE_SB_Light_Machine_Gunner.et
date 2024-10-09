@@ -1,0 +1,49 @@
+SCR_ChimeraCharacter : "{152EF309CFE73653}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "SB Light Machine Gunner"
+    Description "SB Light Machine Gunner description TODO"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{3D3B640B7773CC99}Prefabs/Weapons/Machineguns/M73.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{02A55C0DBE5C74FB}Prefabs/Characters/HeadGear/Marine/Heavy Marine helmet Innie.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{3695CF41C2831D21}Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_CamelBag_70L_TAN.et"
+    }
+    LoadoutSlotInfo Extra {
+     Prefab "{223310AEB99FD2CA}Prefabs/Characters/Vests/Marine/Heavy Marine/Innie/Add Heavy L Pad Innie.et"
+    }
+    LoadoutSlotInfo Extra2 {
+     Prefab "{CFF05BB24066F459}Prefabs/Characters/Vests/Marine/Heavy Marine/Innie/Add Heavy R Pad Innie.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{628F2DA3DC276F00}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_CamelBag_70L_TAN.et"
+     PrefabsToSpawn {
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+      "{1D23B822BDE38B2A}Prefabs/Magazines/M73 Magazine.et"
+     }
+    }
+   }
+  }
+ }
+}

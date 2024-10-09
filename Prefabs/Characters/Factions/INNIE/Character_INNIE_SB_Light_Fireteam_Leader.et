@@ -1,0 +1,54 @@
+SCR_ChimeraCharacter : "{152EF309CFE73653}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "SB Light Fireteam Lead"
+    Description "SB Light Fireteam Lead description"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{79A4FFA5202CFA20}Prefabs/Weapons/Rifles/BR55/Rifle_BR55_WIP.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{02A55C0DBE5C74FB}Prefabs/Characters/HeadGear/Marine/Heavy Marine helmet Innie.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{9B6B61BB3FE3DFB0}Prefabs/Items/Equipment/Radios/Radio_ANPRC77.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{176A2E096A3BC3D8}Prefabs/Characters/Vests/Marine/Marine Heavy Pouches.et"
+    }
+    LoadoutSlotInfo Extra {
+     Prefab "{223310AEB99FD2CA}Prefabs/Characters/Vests/Marine/Heavy Marine/Innie/Add Heavy L Pad Innie.et"
+    }
+    LoadoutSlotInfo Extra2 {
+     Prefab "{CFF05BB24066F459}Prefabs/Characters/Vests/Marine/Heavy Marine/Innie/Add Heavy R Pad Innie.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5F0E02E065CC2DD3}" {
+     PrefabsToSpawn + {
+      "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et"
+     }
+    }
+    ItemsInitConfigurationItem "{628F2DA3DC276F00}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Jacket_KZS/Jacket_KZS.et"
+     PrefabsToSpawn {
+      "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et"
+     }
+    }
+    ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
+     TargetStorage "Prefabs/Characters/Vests/Marine/Marine Heavy Pouches.et"
+     PrefabsToSpawn {
+      "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et" "{FEB1DE99DE6D670C}Prefabs/Magazines/BR55 Magazine.et"
+     }
+    }
+   }
+  }
+ }
+}

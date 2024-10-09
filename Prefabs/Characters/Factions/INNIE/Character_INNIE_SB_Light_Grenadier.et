@@ -1,0 +1,69 @@
+SCR_ChimeraCharacter : "{152EF309CFE73653}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "SB Light Grenadier"
+    Description "SB Light Grenadier description"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{1442A21010179D26}Prefabs/Weapons/Rifles/MA5B/Rifle_MA5B_GL Innie.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{85C685183E6E0471}Prefabs/Characters/HeadGear/Marine/Light Marine helmet Innie.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{8F8E05E0E4A91625}Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5.et"
+    }
+    LoadoutSlotInfo Extra {
+     Prefab "{50B7992406A0A0A2}Prefabs/Characters/Vests/Marine/Light Marine/Innie/Add Light L Pad Innie.et"
+    }
+    LoadoutSlotInfo Extra2 {
+     Prefab "{BD74D238FF598631}Prefabs/Characters/Vests/Marine/Light Marine/Innie/Add Light R Pad Innie.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{628F2DA3DC276F00}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5.et"
+     PrefabsToSpawn {
+      "{0C9723DF5D70D3F5}Prefabs/Weapons/Ammo/Ammo_Grenade_MA5BGL_HEDP.et"
+      "{0C9723DF5D70D3F5}Prefabs/Weapons/Ammo/Ammo_Grenade_MA5BGL_HEDP.et"
+      "{0C9723DF5D70D3F5}Prefabs/Weapons/Ammo/Ammo_Grenade_MA5BGL_HEDP.et"
+      "{0C9723DF5D70D3F5}Prefabs/Weapons/Ammo/Ammo_Grenade_MA5BGL_HEDP.et"
+      "{0C9723DF5D70D3F5}Prefabs/Weapons/Ammo/Ammo_Grenade_MA5BGL_HEDP.et"
+     }
+    }
+    ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
+     TargetStorage "Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
+     PrefabsToSpawn {
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+      "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et"
+     }
+    }
+   }
+  }
+ }
+}

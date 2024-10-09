@@ -1,12 +1,10 @@
 SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Character_INNIE_BaseLoadout.et" {
  ID "520EC961A090B1EE"
  components {
-  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
-  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "SB Light Rifleman"
-    Description "SB Light Rifleman description TODO"
+    Name "SB Character TODO"
+    Description "SB description TODO"
     m_aAuthoredLabels {
      70 2 2515 1001
     }
@@ -58,56 +56,23 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{5F0E02E065CC2DAD}" {
-     TargetStorage "Prefabs/Characters/Armor/UNSC/Light Marine Core Innie.et"
      PrefabsToSpawn {
-      "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et"
-      "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
      }
     }
     ItemsInitConfigurationItem "{5F0E02E065CC2DD3}" {
      TargetStorage "Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
      TargetPurpose 1
      PrefabsToSpawn {
-      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
-      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
-      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
-      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
-      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
-     }
-    }
-    ItemsInitConfigurationItem "{628F2DA3DC276F00}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5.et"
-     PrefabsToSpawn {
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-      "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
-     }
-    }
-    ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
-     TargetStorage "Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
-     PrefabsToSpawn {
-      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et"
-      "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et"
-      "{00E36F41CA310E2A}Prefabs/Items/Medicine/SalineBag_01/SalineBag_US_01.et"
+      "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et"
       "{4516ED62FABDDA4F}Prefabs/Items/Equipment/Maps/Datapad_01.et"
       "{1BF9CC1CABB72E8D}Prefabs/Items/Equipment/Radios/INNIE Handheld Radio.et"
+      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et"
+      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et"
+      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+      "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+      "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
      }
     }
    }
