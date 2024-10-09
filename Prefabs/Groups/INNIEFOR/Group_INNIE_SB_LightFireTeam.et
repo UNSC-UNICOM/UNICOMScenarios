@@ -12,9 +12,11 @@ SCR_AIGroup : "{D829C405E0DF6485}Prefabs/Groups/INNIEFOR/Group_INNIE_Base.et" {
   }
  }
  m_aUnitPrefabSlots {
+  "{A7073F3E910FCAA4}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Fireteam_Leader.et"
   "{520BB423C8BBCFF0}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Rifleman.et"
   "{520BB423C8BBCFF0}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Rifleman.et"
   "{520BB423C8BBCFF0}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Rifleman.et"
+  "{BFB3DD26230C9F30}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Grenadier.et"
   "{520BB423C8BBCFF0}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Rifleman.et"
   "{520BB423C8BBCFF0}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Rifleman.et"
   "{8959300A7FBDE26C}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Medic.et"
@@ -22,7 +24,5 @@ SCR_AIGroup : "{D829C405E0DF6485}Prefabs/Groups/INNIEFOR/Group_INNIE_Base.et" {
   "{025C38872F4B17E6}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Machine_Gunner.et"
   "{025C38872F4B17E6}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Machine_Gunner.et"
   "{3924CEB0A0848A34}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Anti_Tank.et"
-  "{BFB3DD26230C9F30}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Grenadier.et"
-  "{A7073F3E910FCAA4}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_Light_Fireteam_Leader.et"
  }
 }
