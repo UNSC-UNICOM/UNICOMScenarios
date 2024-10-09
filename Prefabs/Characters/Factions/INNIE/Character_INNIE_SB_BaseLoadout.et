@@ -40,7 +40,7 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
      Prefab "{8F8E05E0E4A91625}Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5.et"
     }
     LoadoutSlotInfo Vest {
-     Prefab "{4818A1B1EC48DD7A}Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
+     Prefab "{4818A1B1EC48DD7A}OperationMantakrArmour/UNSC/Issac CE/CE_Pouches_Prefabs/Marine Light Pouches.et"
     }
     LoadoutSlotInfo HandWear {
      Prefab "{4F71E7468E78DDD2}Prefabs/Characters/Handwear/Gloves_Leather_01/Gloves_Leather_01.et"
@@ -72,13 +72,14 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
       "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et"
       "{4516ED62FABDDA4F}Prefabs/Items/Equipment/Maps/Datapad_01.et"
       "{1BF9CC1CABB72E8D}Prefabs/Items/Equipment/Radios/INNIE Handheld Radio.et"
-      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et"
-      "{66C501240A143DBF}Prefabs/Items/Medicine/PressureBandage_01/PressureBandage_01.et"
+      "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et"
+      "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et"
       "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
       "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
       "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
       "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
       "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+      ""
      }
     }
    }

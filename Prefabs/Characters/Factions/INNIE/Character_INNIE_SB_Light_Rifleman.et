@@ -1,14 +1,11 @@
 SCR_ChimeraCharacter : "{152EF309CFE73653}Prefabs/Characters/Factions/INNIE/Character_INNIE_SB_BaseLoadout.et" {
  ID "520EC961A090B1EE"
  components {
-  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
-  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "SB Light Rifleman"
     Description "SB Light Rifleman description"
-    m_aAuthoredLabels {
-     70 2 2515 1001
+    m_aAuthoredLabels +{
     }
    }
   }
@@ -49,7 +46,7 @@ SCR_ChimeraCharacter : "{152EF309CFE73653}Prefabs/Characters/Factions/INNIE/Char
      }
     }
     ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
-     TargetStorage "Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
+     TargetStorage "OperationMantakrArmour/UNSC/Issac CE/CE_Pouches_Prefabs/Marine Light Pouches.et"
      PrefabsToSpawn {
       "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"
       "{1CBE59F8168C6286}Prefabs/Magazines/Magazine_7.62x51_MA37.et"

@@ -41,7 +41,7 @@ SCR_ChimeraCharacter : "{152EF309CFE73653}Prefabs/Characters/Factions/INNIE/Char
      }
     }
     ItemsInitConfigurationItem "{628F2DA3857AB9FA}" {
-     TargetStorage "Prefabs/Characters/Vests/Marine/Marine Light Pouches.et"
+     TargetStorage "OperationMantakrArmour/UNSC/Issac CE/CE_Pouches_Prefabs/Marine Light Pouches.et"
      PrefabsToSpawn {
       "{3C04A7B019FFEA78}Prefabs/Magazines/M392 Magazine.et"
       "{3C04A7B019FFEA78}Prefabs/Magazines/M392 Magazine.et"
