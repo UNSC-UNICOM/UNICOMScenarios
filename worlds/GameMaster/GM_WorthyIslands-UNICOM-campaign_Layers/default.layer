@@ -1,0 +1,12 @@
+GenericEntity MBS {
+ coords 897.307 2.125 168.036
+ {
+  GenericEntity : "{6FF27006E9B390F3}Prefabs/Systems/Arsenal/ArsenalBoxes/UNSC/ArsenalBox_UNSC.et" {
+   coords 11.842 -0 8.751
+   angleY -90.341
+  }
+  SCR_SpawnPoint : "{B2B00EF65E43F72E}Prefabs/MP/Spawning/SpawnPoint_HALOFOR.et" {
+   coords 11.117 -0 -1.504
+  }
+ }
+}
