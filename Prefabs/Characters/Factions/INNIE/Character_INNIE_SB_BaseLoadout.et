@@ -45,9 +45,6 @@ SCR_ChimeraCharacter : "{E6F98F6DA41B97BE}Prefabs/Characters/Faction/INNIE/Chara
     LoadoutSlotInfo HandWear {
      Prefab "{4F71E7468E78DDD2}Prefabs/Characters/Handwear/Gloves_Leather_01/Gloves_Leather_01.et"
     }
-    LoadoutSlotInfo Head {
-     Prefab "{C07A52D13353AB2F}Prefabs/Characters/FaceGear/Baclava/Baclava1_Olive.et"
-    }
     LoadoutSlotInfo Eyes {
      Prefab "{3F9602B5792A95B5}Prefabs/Characters/HeadGear/Marine/Marine Glasses.et"
     }
