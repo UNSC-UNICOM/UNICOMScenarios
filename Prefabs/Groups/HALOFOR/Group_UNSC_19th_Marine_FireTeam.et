@@ -1,0 +1,33 @@
+SCR_AIGroup : "{6F9ED9034F68E278}Prefabs/Groups/HALOFOR/Group_UNSC_Base.et" {
+ ID "0000000000000001"
+ components {
+  SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+   m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+    Name "19th Marines Fire Team"
+    m_Image "{2465878B345A64DA}UI/Textures/Icon/Marine.edds"
+    m_aAutoLabels + {
+     71
+    }
+    m_bUseUIInfoName 1
+    m_MilitarySymbol SCR_MilitarySymbol "{563682D06ED5ACD9}" {
+     m_Identity HALOFOR
+     m_Icons 12289
+     m_Amplifier TEAM
+    }
+   }
+  }
+  SCR_GroupIdentityComponent "{56366C5C50AD3CF2}" {
+   m_MilitarySymbol SCR_MilitarySymbol "{56366C5C4E32A359}" {
+    m_Icons INFANTRY
+    m_Amplifier TEAM
+   }
+  }
+ }
+ m_aUnitPrefabSlots {
+  "{D63AD67D643D8002}Prefabs/Characters/Factions/UNSC/Character_UNSC_19th_marine_rifleman.et"
+  "{D63AD67D643D8002}Prefabs/Characters/Factions/UNSC/Character_UNSC_19th_marine_rifleman.et"
+  "{D63AD67D643D8002}Prefabs/Characters/Factions/UNSC/Character_UNSC_19th_marine_rifleman.et"
+  "{D63AD67D643D8002}Prefabs/Characters/Factions/UNSC/Character_UNSC_19th_marine_rifleman.et"
+  "{D63AD67D643D8002}Prefabs/Characters/Factions/UNSC/Character_UNSC_19th_marine_rifleman.et"
+ }
+}

@@ -1,0 +1,13 @@
+SCR_ChimeraCharacter : "{5EC016FCAD98F225}Prefabs/Characters/Factions/UNSC/Character_UNSC_19th_marine_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "19th Marines - Rifleman"
+    m_aAuthoredLabels {
+     70 2 2525 1001
+    }
+   }
+  }
+ }
+}

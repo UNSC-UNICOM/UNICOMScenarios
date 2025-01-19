@@ -8,6 +8,7 @@ SCR_AIGroup : "{D829C405E0DF6485}Prefabs/Groups/INNIEFOR/Group_INNIE_Base.et" {
     m_aAuthoredLabels + {
      1001
     }
+    m_bUseUIInfoName 1
    }
   }
  }

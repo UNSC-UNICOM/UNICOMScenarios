@@ -1,0 +1,74 @@
+SCR_ChimeraCharacter : "{7FA82F25E4F9D710}Prefabs/Characters/Faction/UNSC/Light_Marine_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "19th Marines - Base"
+    Description ""
+    m_aAuthoredLabels {
+     70 2 2525 1001
+    }
+   }
+  }
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et"
+  }
+  CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
+   WeaponTemplate "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{A0F8856BC56BEBB2}Prefabs/Weapons/Rifles/MA5B/Rifle_MA5B.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{25A4B56CF6C776C3}Prefabs/Weapons/Handguns/M6G Magnum/M6G Magnum.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+    }
+    LoadoutSlotInfo Jacket {
+    }
+    LoadoutSlotInfo ArmoredVest {
+    }
+    LoadoutSlotInfo Pants {
+    }
+    LoadoutSlotInfo Boots {
+     Prefab "{DAAFD15478BDE1C3}Prefabs/Characters/Footwear/CombatBoots_US_01.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{008197137463EC64}Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5_TAN.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{EAC5E47F8C635AA9}ARMOR/Marine Battle plate brown new.et"
+    }
+    LoadoutSlotInfo HandWear {
+     Prefab "{4F71E7468E78DDD2}Prefabs/Characters/Handwear/Gloves_Leather_01/Gloves_Leather_01.et"
+    }
+    LoadoutSlotInfo Eyes {
+     Prefab "{3F9602B5792A95B5}Prefabs/Characters/HeadGear/Marine/Marine Glasses.et"
+    }
+    LoadoutSlotInfo Extra {
+    }
+    LoadoutSlotInfo Extra2 {
+    }
+    LoadoutSlotInfo Waist {
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5F0E02E065CC2DAD}" {
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{5F0E02E065CC2DD3}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_MOTAR_Military_M5_TAN.et"
+     TargetPurpose 1
+     PrefabsToSpawn {
+      "{00E36F41CA310E2A}medical/med sup/SalineBag_US_01.et" "{0CF54B9A85D8E0D4}Prefabs/Items/Equipment/Binoculars/Binoculars_M22/Binoculars_M22.et" "{05D6D0A6DE444728}Prefabs/Items/Medicine/Biofoam/Medigel_base.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et" "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et" "{B53E34CC78CF7FAB}Prefabs/Weapons/Grenades/Grenade_M9.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{D41D22DD1B8E921E}explosives/Smoke_M18_Green.et" "{D41D22DD1B8E921E}explosives/Smoke_M18_Green.et" "{3343A055A83CB30D}explosives/Smoke_M18_Red.et" "{3343A055A83CB30D}explosives/Smoke_M18_Red.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{ECA7D1483FFD48B9}Prefabs/Magazines/MA5B Magazine.et" "{EF6C5E8BEA82A4C6}Prefabs/Magazines/M6G Magazine.et" "{EF6C5E8BEA82A4C6}Prefabs/Magazines/M6G Magazine.et" "{EF6C5E8BEA82A4C6}Prefabs/Magazines/M6G Magazine.et" "{EF6C5E8BEA82A4C6}Prefabs/Magazines/M6G Magazine.et"
+     }
+    }
+   }
+  }
+ }
+}
